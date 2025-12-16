@@ -19,7 +19,7 @@ jobs:
         run: |
           curl -L --fail \
           https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/combine_playlist.m3u \
-          -o crichd.m3u
+          -o bd.m3u
 
       - name: Git config
         run: |
