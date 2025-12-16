@@ -1,0 +1,33 @@
+name: Update Playlist
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: d&w
+        run: |
+          curl -L --fail "$DEU" -o default.m3u
+        env:
+          DEU: ${{ secrets.DEU }}
+
+      - name: Git config
+        run: |
+          git config user.name "${{ secrets.GIT_U }}"
+          git config user.email "${{ secrets.GIT_E }}"
+
+      - name: Commit & Force Push
+        run: |
+          git add default.m3u
+          git commit -m "Auto update playlist (every 5 min)" || echo "No changes"
+          git push origin main --force
