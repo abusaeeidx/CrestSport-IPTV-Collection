@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141093_5954_PU_AME_1772957308825.png" group-title="Fancode-Football", Philadelphia Union vs Club América (CONCACAF Champions Cup 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/141093_english_hls_9d34f8290470358_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="Fancode-Tennis", B Court Feed vs Indian- United States (ATP Masters BNP Paribas Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/141024_english_hls_38374e3ee254830_1ta-di_h264/index.m3u8
 
