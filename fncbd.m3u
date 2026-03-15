@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg" group-title="Fancode-Cricket", New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand- 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/master.m3u8?hdnea=exp=1773581413~acl=/*~id=28157409657579721435147709114167~hmac=235ba334a76b5af5cd1a69722335405b065a9347451099d3df53530d03c6a70a
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WPL_web.jpg" group-title="Fancode-Cricket", Hong Kong Cricket Club Women vs Craigengower Cricket Club Women (Women's Premier League T20 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140613_english_hls_73830c40c155202_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141362_6007_CC_HT_FC-Web.jpg" group-title="Fancode-Cricket", Chambal Chargers vs Hindon Titans (Ayodhya Premier League)
+https://bd-mc-fdlive.fancode.com/mumbai/141362_english_hls_da30ecdd1c7696_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png" group-title="Fancode-Cricket", Tasmania vs Queensland (Sheffield Shield- 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/134043_english_hls_ad224acef214446_1ta-di_h264/index.m3u8
 
@@ -10,6 +19,3 @@ https://bd-mc-fdlive.fancode.com/mumbai/134041_english_hls_327851520357185_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(9).png" group-title="Fancode-Golf", Day 4 vs Koonyonga Club (Women's Australian Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140790_english_hls_f146afce1927037_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="Fancode-Tennis", Men's Doubles Finals vs Indian- United States (ATP Masters BNP Paribas Open 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/141417_english_hls_d4a8cb6a2428915_1ta-di_h264/index.m3u8
