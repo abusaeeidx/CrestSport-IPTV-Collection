@@ -31,3 +31,6 @@ https://bd-mc-fdlive.fancode.com/mumbai/134043_english_hls_ad224acef214446_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web.jpg" group-title="Fancode-Motorsports", Race vs China (F1 Kids 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/141419_english_hls_55101a7bb450585_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg" group-title="Fancode-Live Events", ISGL Mumbai City Qualifiers vs Mumbai (Indian Super Gaming League 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/141441_english_hls_ad9a7e4c8b40101_1ta-di_h264/index.m3u8
