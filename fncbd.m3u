@@ -1,3 +1,21 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141749_6028_GER_NYL_FC-WEB.jpg" group-title="Fancode-Cricket", Genid Royals vs New York Liberty XI (Brisbane Champions League 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141749_english_hls_f9b743a08d77850_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Fancode-Cricket", Brazil Women vs Malawi Women (Kalahari Women's T20 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141892_english_hls_c8629d77dd74846_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png" group-title="Fancode-Cricket", Botswana Women vs Mozambique Women (Kalahari Women's T20 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141893_english_hls_dbe5fa62ee85348_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141747_6028_EVF_PUW_FC-WEB.jpg" group-title="Fancode-Cricket", Everest Falcons vs Perth United Warriors (Brisbane Champions League 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141747_english_hls_20df4d0dd660812_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode-Tennis", Court EA de Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141666_english_hls_62dfe1360970694_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode-Tennis", Court Ranier III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141665_english_hls_65fb54441630767_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode-Tennis", World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141664_english_hls_a9d5d3ee6611392_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode-Tennis", Court des Princes vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141663_english_hls_9c78378c4a4071_1ta-di_h264/index.m3u8
