@@ -1,12 +1,3 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode-Tennis", World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141670_english_hls_405235b21c67435_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode-Tennis", Court Ranier III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141669_english_hls_b05cdbd5fd30470_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode-Tennis", Court EA de Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141668_english_hls_b00e126fa09178_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="Fancode-Tennis", Court des Princes vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141667_english_hls_021b1ecdd33291_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140725_5655_AHS_ALK_fc-web.jpg" group-title="Fancode-Football", Al Hilal SFC vs Al-Kholood Club (Roshn Saudi League 2025-2026)
+https://bd-mc-fblive.fancode.com/mumbai/140725_english_hls_359f44fc0b39544_1ta-di_h264/index.m3u8
