@@ -5,10 +5,25 @@ https://bd-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb43562_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Fancode-Cricket", Trinidad & Tobago Red Force vs Barbados Pride (West Indies Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8633387_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131188_5427_VIL_SEV_FC-Web.png" group-title="Fancode-Football", Villarreal CF vs Sevilla FC (LALIGA 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/131188_english_hls_67eea3e34f76561_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131185_5427_ESL_ATH_FC-Web.png" group-title="Fancode-Football", RCD Espanyol vs Athletic Club (LALIGA 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/131185_english_hls_acddd9a1f85689_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142259_6062_UZB_AUS_FC-WEB.jpg" group-title="Fancode-Football", Uzbekistan vs Australia (AFC U17 Asian Cup Saudi Arabia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142259_english_hls_19f4135d8c80846_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg" group-title="Fancode-Football", Vietnam vs United Arab Emirates (AFC U17 Asian Cup Saudi Arabia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142258_english_hls_2d0641948518140_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg" group-title="Fancode-Football", Korea Republic vs Yemen (AFC U17 Asian Cup Saudi Arabia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142257_english_hls_b066a3bf0324433_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Day 8 - Supertennis Arena vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142233_english_hls_cc62ff64e737337_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Karen-Khachanov_fc_web.jpg" group-title="Fancode-Tennis", QF: C. Ruud vs K. Khachanov vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Day 8 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142234_english_hls_8994bd359e88030_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Day 8 - Goransson/King vs Bolelli/Vavassori vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
