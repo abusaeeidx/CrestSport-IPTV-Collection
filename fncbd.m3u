@@ -2,8 +2,11 @@
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament, -2026_FC-WEB_1779005924089.jpg" group-title="Fancode-Cricket"- Band-e-Amir Region vs Mis-e-Ainak Region (Supercola Regional List A Tournament- 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142739_english_hls_e4a4ed6c3495551_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Fancode-Cricket", Bangladesh vs Pakistan (Pakistan tour of Bangladesh- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142432_6076_CYP_JER_fc-web.jpg" group-title="Fancode-Cricket", Jersey vs Cyprus (ICC Men's T20 WC Europe Sub Regional Qualifier A)
+https://bd-mc-fblive.fancode.com/mumbai/142432_english_hls_aa47a4484f55807_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142431_6076_SLO_AUT_fc-web.jpg" group-title="Fancode-Cricket", Slovenia vs Austria (ICC Men's T20 WC Europe Sub Regional Qualifier A)
+https://bd-mc-fblive.fancode.com/mumbai/142431_english_hls_53e3c8a53c53068_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg" group-title="Fancode-Football", Sporting Club Delhi vs Inter Kashi (ISL 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/140514_english_hls_2f11c5d02f67335_1ta-di_h264/index.m3u8
@@ -22,3 +25,9 @@ https://bd-mc-fblive.fancode.com/mumbai/142261_english_hls_649061a43666015_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Fancode-Motorsports", Spielberg - Day 2 vs Spielberg- Austria (Ferrari Challenge Series 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142637_english_hls_df826df69b30602_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Men's Doubles Finals vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142240_english_hls_545829a55f19390_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open, -ATP-250-old-.jpg" group-title="Fancode-Tennis"- Day 1 - Main Feed vs Geneva (ATP 250 - Gonet Geneva Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142268_english_hls_0e7643fc8d70924_1ta-di_h264/index.m3u8
