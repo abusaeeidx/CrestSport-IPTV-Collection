@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1779244278108/142554_CASACARDS_APP.png" group-title="Fancode-Football", China PR vs Japan (AFC U17 Asian Cup Saudi Arabia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142554_english_hls_7cd85c873c21539_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode-Golf", Day 2 - Main Feed vs TPC Craig Ranch - McKinney- Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142120_english_hls_27f9701cee7073_1ta-di_h264/index.m3u8
 
@@ -14,8 +11,8 @@ https://bd-mc-fblive.fancode.com/mumbai/142121_english_hls_686c0af15485822_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode-Golf", Day 2 - Featured Holes vs TPC Craig Ranch - McKinney- Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142122_english_hls_efc99e5eb166998_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Fancode-Tennis", Day 6 - Men's SF's vs Hamburg- Germany (ATP 500 - Bitpanda Hamburg Open 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142949_english_hls_d47fd7059522290_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode-Golf", Day 2 - World Feed vs TPC Craig Ranch - McKinney- Texas (The CJ Cup Byron Nelson 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142119_english_hls_b632ba230c3253_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web.jpg" group-title="Fancode-Formula 1", Practice 1 vs Canada (F1 LENOVO GRAND PRIX DU CANADA 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139442_english_hls_a4be7f387232380_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Fancode-Formula 1", Sprint Qualifying vs Canada (F1 LENOVO GRAND PRIX DU CANADA 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139443_english_hls_c9c16f388e2925_1ta-di_h264/index.m3u8
