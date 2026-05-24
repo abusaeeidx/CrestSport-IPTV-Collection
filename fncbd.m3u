@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131207_5427_VIL_ATL_FC-Web.png" group-title="Fancode-Football", Villarreal CF vs Atletico de Madrid (LALIGA 2025-26)
+https://bd-mc-fblive.fancode.com/mumbai/131207_english_hls_ebf0a110a614242_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1778777596615/142702_CASACARDS_APP.png" group-title="Fancode-Football", Real Valladolid vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)
 https://bd-mc-fblive.fancode.com/mumbai/142702_english_hls_02388e4dcb94489_1ta-di_h264/index.m3u8
 
@@ -9,19 +12,19 @@ https://bd-mc-fblive.fancode.com/mumbai/142700_english_hls_f44fd5b5e796934_1ta-d
 https://bd-mc-fblive.fancode.com/mumbai/142699_english_hls_9bde25b02c16881_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Court Suzanne-Lenglen vs Stade Roland Garros Paris- France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
+https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779684770~acl=/*~id=80892143513824944227603378737363~hmac=b598649fcbe069599be1a6cfe32738857d08ef84bbf1efbc59dcb25564d5a4b3
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Court Simonne-Mathieu vs Stade Roland Garros Paris- France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1779684770~acl=/*~id=80892143513824944227603378737363~hmac=b598649fcbe069599be1a6cfe32738857d08ef84bbf1efbc59dcb25564d5a4b3
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Court 14 vs Stade Roland Garros Paris- France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779684781~acl=/*~id=43287984509071718759014629479344~hmac=6c772f5a7ec96271a171b48ad4559145bd20042a19db67052ed0c79dbd4edb13
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Top seeds in action vs Stade Roland Garros Paris- France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Novak-Djokovic-vs-Giovanni-Mpetshi-Perricard_FC_WEB.jpg" group-title="Fancode-Tennis", N. Djokovic vs G. Mpetshi Perricard vs Stade Roland Garros Paris- France (Roland Garros 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779684781~acl=/*~id=43287984509071718759014629479344~hmac=6c772f5a7ec96271a171b48ad4559145bd20042a19db67052ed0c79dbd4edb13
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Court Philippe-Chatrier vs Stade Roland Garros Paris- France (Roland Garros 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779659243~acl=/*~id=57532946422315149672391649315909~hmac=667faa720c9f4b7c27f6b84b43eaa67c5b1c8e6e10e5ff8dac52d0a41ce32407
+https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1779688422~acl=/*~id=08842955277723224683463733568556~hmac=8a8880c2a7d8d234ea1d8f16009f40db7b3beb927f613b425088192ec16e5819
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode-Golf", Day 4 - Main Feed vs TPC Craig Ranch - McKinney- Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142130_english_hls_d2299e4d7e646_1ta-di_h264/index.m3u8
@@ -35,5 +38,8 @@ https://bd-mc-fblive.fancode.com/mumbai/142133_english_hls_471b6b2a6324053_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode-Golf", Day 4 - Marquee Group vs TPC Craig Ranch - McKinney- Texas (The CJ Cup Byron Nelson 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg" group-title="Fancode-Motorsports", Feature Race vs Canada (F2 MONTREAL 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142090_english_hls_9d10b7d42d48626_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Fancode-Golf", Day 4 - World Feed vs TPC Craig Ranch - McKinney- Texas (The CJ Cup Byron Nelson 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142129_english_hls_288d6edf7a20445_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Fancode-Formula 1", Race vs Canada (F1 LENOVO GRAND PRIX DU CANADA 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139446_english_hls_575bbc305b90959_1ta-di_h264/index.m3u8
