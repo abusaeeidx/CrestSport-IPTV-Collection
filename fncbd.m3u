@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode-Cricket", Rwanda vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier)
-https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg" group-title="Fancode-Cricket", Bangladesh Women vs Scotland Women (Scotland Women's T20I Tri-Series 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8
 
@@ -20,7 +17,7 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Court 14 vs Stade Roland Garros Paris- France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1780173878~acl=/*~id=08639228855578992354466780460016~hmac=0b27326638ec0182fd515d4daf69b2b19debee73d1e2d706d170a250bcaffe1b
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Court Philippe-Chatrier vs Stade Roland Garros Paris- France (Roland Garros 2026)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Coco-Gauff-vs-Anastasia-Potapova_FC-WEB.jpg" group-title="Fancode-Tennis", Gauff vs Potapova vs Stade Roland Garros Paris- France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1780177528~acl=/*~id=28285834535690830494568255171824~hmac=3e69b0805fdfa69ae0a6f8ac170f223d2f73ed2ff265bb6edd6939715900cabc
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode-Golf", Day 3 - Main Feed vs Colonial Country Club - Fort Worth- Texas (Charles Schwab Challenge 2026)
@@ -31,3 +28,9 @@ https://bd-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode-Golf", Day 3 - Featured Groups vs Colonial Country Club - Fort Worth- Texas (Charles Schwab Challenge 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode-Golf", Day 3 - Marquee Group vs Colonial Country Club - Fort Worth- Texas (Charles Schwab Challenge 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142898_english_hls_8f06bd52b125270_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode-Cricket", Rwanda vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier)
+https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8
