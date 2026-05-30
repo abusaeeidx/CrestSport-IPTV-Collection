@@ -1,14 +1,17 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament, -2026_FC-WEB_1779005924089.jpg" group-title="Fancode-Cricket"- Mis-e-Ainak Region vs Speen Ghar Region (Supercola Regional List A Tournament- 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142748_english_hls_7ae2504f0712693_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Fancode-Cricket", Rwanda vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier)
 https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg" group-title="Fancode-Cricket", Bangladesh Women vs Scotland Women (Scotland Women's T20I Tri-Series 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg" group-title="Fancode-Football", India vs Zimbabwe (Unity Cup 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png" group-title="Fancode-MotoGP", Day 2 vs Mugello (BREMBO GRAND PRIX OF ITALY 2026)
 https://bd-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Aryna-Sabalenka-vs-Daria-Kasatkina_FC-WEB.jpg" group-title="Fancode-Tennis", Sabalenka vs Kasatkina vs Stade Roland Garros Paris- France (Roland Garros 2026)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Court Suzanne Lenglen vs Stade Roland Garros Paris- France (Roland Garros 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780173878~acl=/*~id=08639228855578992354466780460016~hmac=0b27326638ec0182fd515d4daf69b2b19debee73d1e2d706d170a250bcaffe1b
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Court Simonne-Mathieu vs Stade Roland Garros Paris- France (Roland Garros 2026)
@@ -22,3 +25,9 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode-Golf", Day 3 - Main Feed vs Colonial Country Club - Fort Worth- Texas (Charles Schwab Challenge 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode-Golf", Day 3 - Featured Holes vs Colonial Country Club - Fort Worth- Texas (Charles Schwab Challenge 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Fancode-Golf", Day 3 - Featured Groups vs Colonial Country Club - Fort Worth- Texas (Charles Schwab Challenge 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8
