@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Fancode-Cricket", Royal Nimar Eagles Women vs Chambal Ghariyals Women (Madhya Pradesh League T20 Women's 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143020_english_hls_8212eea5fc32605_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB_1780318028422.jpg" group-title="Fancode-Cricket", Northern Challengers vs UP Brij Stars (Big Cricket League Season 2)
+https://bd-mc-fblive.fancode.com/mumbai/142987_english_hls_46038a46e995209_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg" group-title="Fancode-Cricket", Bhopal Wolves Women vs Gwalior Shernis (Madhya Pradesh League T20 Women's 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143021_english_hls_1572450f0727763_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1780469022398/143061_CASACARDS_APP.png" group-title="Fancode-Cricket", Gwalior Cheetahs vs Bhopal Leopards (Madhya Pradesh League T20- 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143061_english_hls_29b6b5ad0d69099_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Michelin-Grand-Prix-of-Hungary_fc-web.jpg" group-title="Fancode-MotoGP", Day 1 vs Balaton (GRAND PRIX OF HUNGARY 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139948_english_hls_f8a35d06ab79402_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Court Simonne-Mathieu vs Paris (Roland Garros 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1780696165~acl=/*~id=58394789473131942413957321183703~hmac=e4f5969fc8f327af66091fb0eea3442b6d7526e8dd57d718e6bc1b7c3e3ec54d
