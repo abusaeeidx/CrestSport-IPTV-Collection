@@ -5,8 +5,14 @@ https://bd-mc-fblive.fancode.com/mumbai/143555_english_hls_33ab03887046427_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png" group-title="Fancode-Cricket", Singapore vs Thailand (Asia Pacific Cricket Champions Trophy- 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143550_english_hls_573cb7b5b941706_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="Fancode-Cricket", RML Sports vs KCC (KPL Indo Nepal T20 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143522_english_hls_e0bf049e9b44320_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png" group-title="Fancode-MotoGP", Day 1 vs ASSEN (GRAND PRIX OF NETHERLANDS 2026)
 https://bd-mc-fblive.fancode.com/mumbai/139954_english_hls_e25248d51c32894_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="Fancode-Golf", Main Feed - Day 2 vs TPC River Highlands - Cromwell- Connecticut (Travelers Championship 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143575_english_hls_6ad1b652c052713_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg" group-title="Fancode-Motorsports", Qualifying Session vs Spielberg (F3 AUSTRIA 2026)
+https://bd-mc-fblive.fancode.com/mumbai/139726_english_hls_086084dcb549248_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Fancode-Tennis", Men's Semi-Final vs Mallorca- Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143275_english_hls_dbd208e31034095_1ta-di_h264/index.m3u8
