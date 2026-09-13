@@ -1,3 +1,18 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248312_53026_BT_JK_FC-Web.png" group-title="Fancode-Cricket", Caribbean Premier League- 2026 [English]
-https://bd-mc-flive.fancode.com/mumbai/4248312_english_hls_72d930b34b31875_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789342365~_GO=Generated~acl=/mumbai/4248312_english_hls_72d930b34b31875_1ta-di_h264/*~Signature=AWDec-GkgKG0VpK3vmwPHALQx_6SRhBpTcVkhC5dCrg9hVU1FW8uveN7WHc8FmCQ38lUS8etYhAbpdpWvw9ynydQAskD
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249163_53067_SRL_KEN_FC-Web.png" group-title="Fancode-Cricket", ILT20 Africa Continent Cup 2026 [English]
+https://bd-mc-flive.fancode.com/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789370219~_GO=Generated~acl=/mumbai/4249163_english_hls_ec20ae676021217_1ta-di_h264/*~Signature=AWDec-EUnBVlMbNGG81GRy-MspyDFsl_aQ7IQWNJwtINYC55mfgjkEj0IDATeLt61qP-GN5LdMSe22blFpvoRNIAHOoI
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa-ODIs-old.jpg" group-title="Fancode-Cricket", South Africa tour of Namibia- 2026 [English]
+https://bd-mc-flive.fancode.com/mumbai/4248634_english_hls_a616dc1ead2931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789369613~_GO=Generated~acl=/mumbai/4248634_english_hls_a616dc1ead2931_1ta-di_h264/*~Signature=AWDec-GLdeCORMVlZZbvyJgJTkij5XqG-iNGa5drp5W7HNJwLHXtNr5Knt_lLdRDnI7tlMkWdSp6kEjnk-XeIP58VasL
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png" group-title="Fancode-Motorsports", Ferrari Challenge Series 2026 [English]
+https://bd-mc-flive.fancode.com/mumbai/4249178_english_hls_c4a12592279500_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789373854~_GO=Generated~acl=/mumbai/4249178_english_hls_c4a12592279500_1ta-di_h264/*~Signature=AWDec-FuuU3tNBNpvh1zrfP1L8ruc5cp6bKKZu4ZV4-PXyg2HLMfWUQwpOxPZWe0o-TEFRkHmDuevbYDGOByqGiEtOcD
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Motogp.png" group-title="Fancode-MotoGP", RED BULL GRAND PRIX OF SAN MARINO & THE RIMINI RIVIERA [English]
+https://bd-mc-flive.fancode.com/mumbai/139968_english_hls_450673ef9f26803_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789367793~_GO=Generated~acl=/mumbai/139968_english_hls_450673ef9f26803_1ta-di_h264/*~Signature=AWDec-E5ZL_fKs-bSHSiEnQ94ssANDuIKXkke4KIfIupsbKVgit0fS7NCwUiCt6rkFeu9OSG_hZnAPBRFYiMj6KJZ6AL
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="Fancode-Golf", The Solheim Cup 2026 [English]
+https://bd-mc-flive.fancode.com/mumbai/4249083_english_hls_cbc62473c982536_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789375672~_GO=Generated~acl=/mumbai/4249083_english_hls_cbc62473c982536_1ta-di_h264/*~Signature=AWDec-FjnNIGEWeHPjT-glRdJlVHjjukwLN-drdXJbnfs8f259ibKt6zw7eKSTrQj8QNKWbQ-_lkMVswM_Xn83IOAG0N
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-MADRID_F2_fc-web.jpg" group-title="Fancode-Motorsports", F2 MADRID 2026 [English]
+https://bd-mc-flive.fancode.com/mumbai/139653_english_hls_dd03d598bd48609_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789377490~_GO=Generated~acl=/mumbai/139653_english_hls_dd03d598bd48609_1ta-di_h264/*~Signature=AWDec-GTWeS2JiFcetZIJrk3HQCG3lOwCC_umppss-DddwYA7rGynRU1qMYBk28-aPh32SJvGhiiM20x_Vvr_fYv7UYJ
